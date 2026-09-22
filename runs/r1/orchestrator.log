@@ -1,0 +1,104 @@
+2026-09-21 18:00:40,079 orchestrator INFO preflight OK: proxy http://127.0.0.1:1924, vllm http://127.0.0.1:1923
+2026-09-21 18:00:40,080 orchestrator INFO stage=batch: 20 tasks
+2026-09-21 18:00:40,081 orchestrator INFO [1/20] instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan: preparing environment
+2026-09-21 18:00:47,522 env_setup INFO task instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan: clone_ok=True venv status=n/a
+2026-09-21 18:00:47,554 driver INFO [instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan] claude launched in tmux session swe-trace-r1-instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8
+2026-09-21 18:14:48,093 driver INFO [instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan] finished: done (841s, 26 trace calls)
+2026-09-21 18:14:48,324 orchestrator INFO [1/20] instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan: cleaned workspace, freed 61.4 MB
+2026-09-21 18:14:48,324 orchestrator INFO [2/20] instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2: preparing environment
+2026-09-21 18:15:08,412 env_setup INFO task instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2: clone_ok=True venv status=True
+2026-09-21 18:15:08,443 driver INFO [instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2] claude launched in tmux session swe-trace-r1-instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa
+2026-09-21 18:16:48,504 driver INFO [instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2] finished: done (100s, 15 trace calls)
+2026-09-21 18:16:48,871 orchestrator INFO [2/20] instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2: cleaned workspace, freed 130.8 MB
+2026-09-21 18:16:48,871 orchestrator INFO [3/20] instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan: preparing environment
+2026-09-21 18:17:03,335 env_setup INFO task instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan: clone_ok=True venv status=n/a
+2026-09-21 18:17:03,365 driver INFO [instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan] claude launched in tmux session swe-trace-r1-instance_element-hq__element-web-1077729a19c0ce902e713cf6fab
+2026-09-21 18:26:03,727 driver INFO [instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan] finished: done (540s, 49 trace calls)
+2026-09-21 18:26:03,918 orchestrator INFO [3/20] instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan: cleaned workspace, freed 143.5 MB
+2026-09-21 18:26:03,918 orchestrator INFO [4/20] instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1: preparing environment
+2026-09-21 18:26:07,696 env_setup INFO task instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1: clone_ok=True venv status=n/a
+2026-09-21 18:26:07,729 driver INFO [instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1] claude launched in tmux session swe-trace-r1-instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813
+2026-09-21 18:30:47,908 driver INFO [instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1] finished: done (280s, 40 trace calls)
+2026-09-21 18:30:47,990 orchestrator INFO [4/20] instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1: cleaned workspace, freed 28.3 MB
+2026-09-21 18:30:47,990 orchestrator INFO [5/20] instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c: preparing environment
+2026-09-21 18:30:50,223 env_setup INFO task instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c: clone_ok=True venv status=n/a
+2026-09-21 18:30:50,252 driver INFO [instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c] claude launched in tmux session swe-trace-r1-instance_future-architect__vuls-01441351c3407abfc21c48a38e28
+2026-09-21 18:36:30,481 driver INFO [instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c] finished: done (340s, 35 trace calls)
+2026-09-21 18:36:30,513 orchestrator INFO [5/20] instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c: cleaned workspace, freed 6.4 MB
+2026-09-21 18:36:30,513 orchestrator INFO [6/20] instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d: preparing environment
+2026-09-21 18:37:07,947 env_setup INFO task instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d: clone_ok=True venv status=n/a
+2026-09-21 18:37:07,983 driver INFO [instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d] claude launched in tmux session swe-trace-r1-instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302
+2026-09-21 18:41:28,161 driver INFO [instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d] finished: done (260s, 22 trace calls)
+2026-09-21 18:41:28,609 orchestrator INFO [6/20] instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d: cleaned workspace, freed 569.3 MB
+2026-09-21 18:41:28,609 orchestrator INFO [7/20] instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26: preparing environment
+2026-09-21 18:41:37,812 env_setup INFO task instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26: clone_ok=True venv status=True
+2026-09-21 18:41:37,843 driver INFO [instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26] claude launched in tmux session swe-trace-r1-instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58
+2026-09-21 19:00:38,629 driver INFO [instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26] finished: done (1141s, 57 trace calls)
+2026-09-21 19:00:38,750 orchestrator INFO [7/20] instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26: cleaned workspace, freed 70.4 MB
+2026-09-21 19:00:38,750 orchestrator INFO [8/20] instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9: preparing environment
+2026-09-21 19:00:41,638 env_setup INFO task instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9: clone_ok=True venv status=n/a
+2026-09-21 19:00:41,674 driver INFO [instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9] claude launched in tmux session swe-trace-r1-instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e
+2026-09-21 19:38:23,427 driver INFO [instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9] finished: done (2262s, 72 trace calls)
+2026-09-21 19:38:23,468 orchestrator INFO [8/20] instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9: cleaned workspace, freed 23.2 MB
+2026-09-21 19:38:23,468 orchestrator INFO [9/20] instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e: preparing environment
+2026-09-21 19:38:47,214 env_setup INFO task instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e: clone_ok=True venv status=n/a
+2026-09-21 19:38:47,251 driver INFO [instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e] claude launched in tmux session swe-trace-r1-instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f5
+2026-09-21 19:48:27,714 driver INFO [instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e] finished: done (580s, 93 trace calls)
+2026-09-21 19:48:28,180 orchestrator INFO [9/20] instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e: cleaned workspace, freed 275.8 MB
+2026-09-21 19:48:28,180 orchestrator INFO [10/20] instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171: preparing environment
+2026-09-21 19:48:43,152 env_setup INFO task instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171: clone_ok=True venv status=True
+2026-09-21 19:48:43,186 driver INFO [instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171] claude launched in tmux session swe-trace-r1-instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614
+2026-09-21 19:55:03,433 driver INFO [instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171] finished: done (380s, 13 trace calls)
+2026-09-21 19:55:03,555 orchestrator INFO [10/20] instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171: cleaned workspace, freed 92.1 MB
+2026-09-21 19:55:03,555 orchestrator INFO [11/20] instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf: preparing environment
+2026-09-21 19:55:12,748 env_setup INFO task instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf: clone_ok=True venv status=n/a
+2026-09-21 19:55:12,780 driver INFO [instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf] claude launched in tmux session swe-trace-r1-instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f
+2026-09-21 20:12:13,478 driver INFO [instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf] finished: done (1021s, 51 trace calls)
+2026-09-21 20:12:14,641 orchestrator INFO [11/20] instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf: cleaned workspace, freed 789.0 MB
+2026-09-21 20:12:14,642 orchestrator INFO [12/20] instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan: preparing environment
+2026-09-21 20:12:22,533 env_setup INFO task instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan: clone_ok=True venv status=n/a
+2026-09-21 20:12:22,566 driver INFO [instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan] claude launched in tmux session swe-trace-r1-instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfb
+2026-09-21 20:25:03,081 driver INFO [instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan] finished: done (761s, 61 trace calls)
+2026-09-21 20:25:03,318 orchestrator INFO [12/20] instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan: cleaned workspace, freed 61.5 MB
+2026-09-21 20:25:03,319 orchestrator INFO [13/20] instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5: preparing environment
+2026-09-21 20:25:24,141 env_setup INFO task instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5: clone_ok=True venv status=True
+2026-09-21 20:25:24,175 driver INFO [instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5] claude launched in tmux session swe-trace-r1-instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5
+2026-09-21 20:28:44,302 driver INFO [instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5] finished: done (200s, 25 trace calls)
+2026-09-21 20:28:44,789 orchestrator INFO [13/20] instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5: cleaned workspace, freed 152.2 MB
+2026-09-21 20:28:44,789 orchestrator INFO [14/20] instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan: preparing environment
+2026-09-21 20:28:56,121 env_setup INFO task instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan: clone_ok=True venv status=n/a
+2026-09-21 20:28:56,157 driver INFO [instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan] claude launched in tmux session swe-trace-r1-instance_element-hq__element-web-1216285ed2e82e62f8780b6702a
+2026-09-21 20:33:16,338 driver INFO [instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan] finished: done (260s, 37 trace calls)
+2026-09-21 20:33:16,432 orchestrator INFO [14/20] instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan: cleaned workspace, freed 109.1 MB
+2026-09-21 20:33:16,432 orchestrator INFO [15/20] instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9: preparing environment
+2026-09-21 20:33:20,249 env_setup INFO task instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9: clone_ok=True venv status=n/a
+2026-09-21 20:33:20,282 driver INFO [instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9] claude launched in tmux session swe-trace-r1-instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7
+2026-09-21 20:57:01,268 driver INFO [instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9] finished: done (1421s, 61 trace calls)
+2026-09-21 20:57:01,342 orchestrator INFO [15/20] instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9: cleaned workspace, freed 28.6 MB
+2026-09-21 20:57:01,342 orchestrator INFO [16/20] instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa: preparing environment
+2026-09-21 20:57:05,491 env_setup INFO task instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa: clone_ok=True venv status=n/a
+2026-09-21 20:57:05,527 driver INFO [instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa] claude launched in tmux session swe-trace-r1-instance_future-architect__vuls-030b2e03525d68d74cb749959aac
+2026-09-21 21:25:26,689 driver INFO [instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa] finished: done (1701s, 65 trace calls)
+2026-09-21 21:25:26,708 orchestrator INFO [16/20] instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa: cleaned workspace, freed 6.8 MB
+2026-09-21 21:25:26,708 orchestrator INFO [17/20] instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21: preparing environment
+2026-09-21 21:25:55,665 env_setup INFO task instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21: clone_ok=True venv status=n/a
+2026-09-21 21:25:55,699 driver INFO [instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21] claude launched in tmux session swe-trace-r1-instance_gravitational__teleport-007235446f85b1cbaef92664c3b
+2026-09-21 21:46:16,507 driver INFO [instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21] finished: done (1221s, 29 trace calls)
+2026-09-21 21:46:16,870 orchestrator INFO [17/20] instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21: cleaned workspace, freed 437.2 MB
+2026-09-21 21:46:16,870 orchestrator INFO [18/20] instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866: preparing environment
+2026-09-21 21:46:25,440 env_setup INFO task instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866: clone_ok=True venv status=True
+2026-09-21 21:46:25,473 driver INFO [instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866] claude launched in tmux session swe-trace-r1-instance_internetarchive__openlibrary-03095f2680f7516fca35a5
+2026-09-21 21:53:25,767 driver INFO [instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866] finished: done (420s, 28 trace calls)
+2026-09-21 21:53:25,877 orchestrator INFO [18/20] instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866: cleaned workspace, freed 57.7 MB
+2026-09-21 21:53:25,877 orchestrator INFO [19/20] instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db: preparing environment
+2026-09-21 21:53:29,173 env_setup INFO task instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db: clone_ok=True venv status=n/a
+2026-09-21 21:53:29,203 driver INFO [instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db] claude launched in tmux session swe-trace-r1-instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642
+2026-09-21 21:58:29,458 driver INFO [instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db] finished: done (300s, 53 trace calls)
+2026-09-21 21:58:34,207 orchestrator INFO [19/20] instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db: cleaned workspace, freed 468.8 MB
+2026-09-21 21:58:34,207 orchestrator INFO [20/20] instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1: preparing environment
+2026-09-21 21:58:56,947 env_setup INFO task instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1: clone_ok=True venv status=n/a
+2026-09-21 21:58:56,978 driver INFO [instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1] claude launched in tmux session swe-trace-r1-instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd
+2026-09-21 22:10:37,462 driver INFO [instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1] finished: done (700s, 46 trace calls)
+2026-09-21 22:10:37,737 orchestrator INFO [20/20] instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1: cleaned workspace, freed 168.2 MB
+2026-09-21 22:10:37,737 orchestrator INFO stage batch complete. statuses={'done': 24} freed_total=3680.4 MB
+ORCHESTRATOR_DONE

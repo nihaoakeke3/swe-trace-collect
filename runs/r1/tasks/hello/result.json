@@ -1,0 +1,14 @@
+{
+ "task_id": "hello",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 20.0,
+ "session_id": "bc4541f8-3da1-4fbc-aee2-e1cd89762b24",
+ "num_turns": 1,
+ "cost_usd": 0.093805,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 2,
+ "n_trace_llm_calls": 2,
+ "compact_events": 0
+}

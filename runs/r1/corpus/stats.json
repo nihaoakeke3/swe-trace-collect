@@ -1,0 +1,130 @@
+{
+ "n_calls": 1170,
+ "n_subagent_calls": 463,
+ "subagent_ratio": 0.3957,
+ "n_agents": 84,
+ "input_tokens": {
+  "p50": 47641.0,
+  "p90": 104914.0,
+  "p99": 148234.0,
+  "max": 197434.0
+ },
+ "output_tokens": {
+  "p50": 470.0,
+  "p90": 1773.0,
+  "p99": 17992.0,
+  "max": 32000.0
+ },
+ "api_time_s": {
+  "p50": 13.482,
+  "p90": 38.583
+ },
+ "ttft_s": {
+  "p50": 4.553,
+  "p90": 14.609
+ },
+ "tool_gap_s": {
+  "p50": 0.047,
+  "p90": 0.146,
+  "max": 317.9423
+ },
+ "peak_concurrent_calls": 57,
+ "per_task": {
+  "hello": {
+   "n_agents": 1,
+   "n_calls": 2
+  },
+  "instance_NodeBB__NodeBB-00c70ce7b0541cfc94afe567921d7668cdc8f4ac-vnan": {
+   "n_agents": 3,
+   "n_calls": 26
+  },
+  "instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan": {
+   "n_agents": 3,
+   "n_calls": 61
+  },
+  "instance_NodeBB__NodeBB-cfc237c2b79d8c731bbfc6cadf977ed530bfd57a-v0495b863a912fbff5749c67e860612b91825407c": {
+   "n_agents": 7,
+   "n_calls": 149
+  },
+  "instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2": {
+   "n_agents": 1,
+   "n_calls": 15
+  },
+  "instance_ansible__ansible-0fd88717c953b92ed8a50495d55e630eb5d59166-vba6da65a0f3baefda7a058ebbd0a8dcafb8512f5": {
+   "n_agents": 1,
+   "n_calls": 25
+  },
+  "instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan": {
+   "n_agents": 5,
+   "n_calls": 49
+  },
+  "instance_element-hq__element-web-1216285ed2e82e62f8780b6702aa0f9abdda0b34-vnan": {
+   "n_agents": 3,
+   "n_calls": 37
+  },
+  "instance_flipt-io__flipt-02e21636c58e86c51119b63e0fb5ca7b813b07b1": {
+   "n_agents": 5,
+   "n_calls": 40
+  },
+  "instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9": {
+   "n_agents": 2,
+   "n_calls": 61
+  },
+  "instance_flipt-io__flipt-967855b429f749c28c112b8cb1b15bc79157f973": {
+   "n_agents": 3,
+   "n_calls": 67
+  },
+  "instance_future-architect__vuls-01441351c3407abfc21c48a38e28828e1b504e0c": {
+   "n_agents": 5,
+   "n_calls": 35
+  },
+  "instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa": {
+   "n_agents": 6,
+   "n_calls": 59
+  },
+  "instance_gravitational__teleport-005dcb16bacc6a5d5890c4cd302ccfd4298e275d-vee9b09fb20c43af7e520f57e9239bbcf46b7113d": {
+   "n_agents": 4,
+   "n_calls": 22
+  },
+  "instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21": {
+   "n_agents": 2,
+   "n_calls": 29
+  },
+  "instance_internetarchive__openlibrary-00bec1e7c8f3272c469a58e1377df03f955ed478-v13642507b4fc1f8d234172bf8129942da2c2ca26": {
+   "n_agents": 3,
+   "n_calls": 57
+  },
+  "instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866": {
+   "n_agents": 3,
+   "n_calls": 28
+  },
+  "instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9": {
+   "n_agents": 2,
+   "n_calls": 72
+  },
+  "instance_navidrome__navidrome-0488fb92cb02a82924fb1181bf1642f2e87096db": {
+   "n_agents": 4,
+   "n_calls": 52
+  },
+  "instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e": {
+   "n_agents": 9,
+   "n_calls": 93
+  },
+  "instance_protonmail__webclients-01ea5214d11e0df8b7170d91bafd34f23cb0f2b1": {
+   "n_agents": 4,
+   "n_calls": 46
+  },
+  "instance_qutebrowser__qutebrowser-01d1d1494411380d97cac14614a829d3a69cecaf-v2ef375ac784985212b1805e1d0431dc8f1b3c171": {
+   "n_agents": 1,
+   "n_calls": 13
+  },
+  "instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171": {
+   "n_agents": 4,
+   "n_calls": 81
+  },
+  "instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf": {
+   "n_agents": 3,
+   "n_calls": 51
+  }
+ }
+}

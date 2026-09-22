@@ -1,0 +1,11 @@
+{
+ "task_id": "hello",
+ "repo": null,
+ "repo_url": null,
+ "base_commit": null,
+ "repo_language": null,
+ "clone_ok": true,
+ "checked_out": null,
+ "venv_ok": false,
+ "pseudo": true
+}

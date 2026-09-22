@@ -1,0 +1,1 @@
+Reply with exactly: OK. Do not use any tools, do not explore any files. This is a connectivity smoke test.

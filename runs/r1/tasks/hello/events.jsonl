@@ -1,0 +1,2 @@
+{"event": "init", "session_id": "bc4541f8-3da1-4fbc-aee2-e1cd89762b24", "model": "qwen3.6-35b-a3b-awq-nvfp4"}
+{"event": "result", "subtype": "success", "is_error": false, "num_turns": 1, "cost_usd": 0.093805}

