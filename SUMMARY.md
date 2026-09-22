@@ -283,7 +283,7 @@ hash_ids：tokenizer 按 64-token 块对规范化 prompt（system+messages+tools
 
 ## 7. 回放压测设计（FreeToken / vLLM）
 
-### 闭环并发驱动器 `ft-agentx-bench/replay/replay_loop.py`
+### 闭环并发驱动器 `replay/replay_loop.py`（本仓库）
 
 - C 个 asyncio 槽 = C 个闭环客户端；槽内顺序回放一条 session：发请求
   （prompt 由 gids×blocks 重建，`ignore_eos` 锁定输出 token 数）→ 等响应 →

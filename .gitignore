@@ -1,10 +1,12 @@
-# environments & transient logs (not data)
+runs/
+dataset/
 venvs/
 logs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 nohup.out
-# per-task working dirs (venvs inside workspaces are transient)
+config.env
+# per-task working dirs (transient)
 runs/*/tasks/*/workspace/
 runs/*/claude_config/
